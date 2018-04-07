@@ -1,3 +1,8 @@
 
-# one_more_NMT
-No BS, just what we need. 
+### Tensorflow NMT implementation: Will Cover 
+- bi-direction GRU
+- Attention Model
+- Language Model
+- Highway Networks (Probably)
+- Tensorboard Functionalies
+ 
